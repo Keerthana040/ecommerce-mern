@@ -118,6 +118,9 @@ npm start
 3. **Protected Routes** → Token verified by middleware (`requireSignIn`, `isAdmin`)
 
 ---
+Architecture: 
+<img width="562" height="747" alt="Screenshot 2025-09-22 165206" src="https://github.com/user-attachments/assets/d5ead771-6bd0-4473-bf25-0e542577198c" />
+
 
 ## 📸 Screenshots (Optional)
 
