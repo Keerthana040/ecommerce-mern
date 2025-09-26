@@ -117,10 +117,13 @@ Architecture:
 
 <img width="1213" height="404" alt="Screenshot 2025-09-16 144020" src="https://github.com/user-attachments/assets/e1749c53-6be8-4eb6-8db2-1a275f9e3ca1" />
 <img width="1207" height="465" alt="Screenshot 2025-09-16 142615" src="https://github.com/user-attachments/assets/076109b2-e142-4e41-add8-25e882c6a0d8" />
-<img width="1890" height="810" alt="image" src="https://github.com/user-attachments/assets/9cd4e0ac-7ef4-4516-873a-85c9ba83e874" />
-<img width="1890" height="810" alt="Screenshot 2025-09-26 130452" src="https://github.com/user-attachments/assets/9509b8b7-affa-4367-90d3-ecb63bc5be4e" />
-<img width="1890" height="810" alt="Screenshot 2025-09-26 130452" src="https://github.com/user-attachments/assets/f938c1d4-bfe2-496c-9337-a293135cd1ea" />
-<img width="1890" height="810" alt="Screenshot 2025-09-26 130452" src="https://github.com/user-attachments/assets/f9264d5b-d0b0-4fc2-aa34-f74dee73ca47" />
+<img width="1890" height="810" alt="Screenshot 2025-09-26 130452" src="https://github.com/user-attachments/assets/27aca720-48f5-43b7-b310-4d8f0eef8695" />
+<img width="1144" height="805" alt="Screenshot 2025-09-26 125914" src="https://github.com/user-attachments/assets/0411400e-97f5-4a86-be46-bce1b3d708bf" />
+<img width="534" height="752" alt="Screenshot 2025-09-26 125944" src="https://github.com/user-attachments/assets/9bf60c50-ec2c-4392-b142-427f4e80effe" />
+<img width="1429" height="749" alt="Screenshot 2025-09-26 124058" src="https://github.com/user-attachments/assets/feb55300-73d5-4381-9ed4-3593e08d4506" />
+
+
+
 
 
 
