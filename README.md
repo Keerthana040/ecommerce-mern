@@ -2,7 +2,7 @@
 
 Welcome to the **ecommerce-mern** project.  
 This documentation serves as a technical guide for engineers, providing an in-depth understanding of the codebase, architecture, and integration points.  
-The goal is to empower you to navigate, contribute to, and extend this e-commerce platform effectively.
+
 
 This project leverages the **MERN stack**:  
 - **MongoDB** for the database  
@@ -10,10 +10,7 @@ This project leverages the **MERN stack**:
 - **React** for the frontend  
 - **Node.js** as the runtime environment  
 
-Perfect 👍 You want me to **take everything from Project Structure → Deployment** and format it cleanly for your **README file**.
-Here’s a polished version you can copy-paste directly into your README 👇
 
----
 
 ## 📂 Project Structure
 
@@ -59,12 +56,6 @@ ecommerce-mern/
 
 * Online payment gateway support
 
-### 🎨 Extra Features
-
-* Responsive design with Bootstrap
-* SEO optimization in React
-* Context API for state management
-* Deployment on free hosting
 
 ---
 
@@ -126,14 +117,14 @@ Architecture:
 
 <img width="1213" height="404" alt="Screenshot 2025-09-16 144020" src="https://github.com/user-attachments/assets/e1749c53-6be8-4eb6-8db2-1a275f9e3ca1" />
 <img width="1207" height="465" alt="Screenshot 2025-09-16 142615" src="https://github.com/user-attachments/assets/076109b2-e142-4e41-add8-25e882c6a0d8" />
+<img width="1890" height="810" alt="image" src="https://github.com/user-attachments/assets/9cd4e0ac-7ef4-4516-873a-85c9ba83e874" />
+<img width="1890" height="810" alt="Screenshot 2025-09-26 130452" src="https://github.com/user-attachments/assets/9509b8b7-affa-4367-90d3-ecb63bc5be4e" />
+<img width="1890" height="810" alt="Screenshot 2025-09-26 130452" src="https://github.com/user-attachments/assets/f938c1d4-bfe2-496c-9337-a293135cd1ea" />
+<img width="1890" height="810" alt="Screenshot 2025-09-26 130452" src="https://github.com/user-attachments/assets/f9264d5b-d0b0-4fc2-aa34-f74dee73ca47" />
 
 
-## 📌 Deployment
 
-* **Frontend:** Vercel / Netlify
-* **Backend:** Render / Railway / Heroku
-* **Database:** MongoDB Atlas
 
----
 
-Do you want me to also **add step-by-step deployment commands for Vercel (frontend) and Render (backend)** so recruiters can see you know how to host the project end-to-end?
+
+
